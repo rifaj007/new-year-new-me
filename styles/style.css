@@ -59,3 +59,41 @@ main {
 	font-weight: 400;
 	line-height: 26px;
 }
+
+/* improvement section style */
+
+.improvement-section {
+	display: flex;
+	align-items: center;
+    margin-top: 140px;
+}
+
+.improvement-thumb {
+    margin-left: -25px;
+}
+
+.impro-tittle {
+	color: #151414;
+	font-size: 40px;
+	font-weight: 700;
+}
+
+.impro-description {
+	color:#444343;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 26px;
+}
+
+.improvement-list li {
+	color: #444343;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 26px;
+	list-style: none;
+	margin-bottom: 10px;
+}
+
+.improvement-list li svg {
+	margin-bottom: -5px;
+}
