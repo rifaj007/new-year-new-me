@@ -22,6 +22,10 @@ ul {
 	padding: 0;
 }
 
+.white-color {
+	color: #fff!important;
+}
+
 /* common style */
 
 main {
@@ -41,6 +45,11 @@ main {
 	background: #F15B22;
 	padding: 20px 25px;
 	display: inline-block;
+}
+
+.primary-btn.primary-btn-3 {
+	color: #005FAC;
+	background: #fff;
 }
 
 /* banner section style */
@@ -193,6 +202,10 @@ main {
 	display: inline-block;
 }
 
+.motivated-btn.motivated-btn-3 {
+	color: #005FAC;
+}
+
 .motivated-content-box {
 	padding-top: 60px;
 	padding-left: 65px;
@@ -288,6 +301,11 @@ main {
 	padding: 18px 35px;
 	border: 0;
 	cursor: pointer;
+}
+
+.footer-btn.footer-btn-3{
+	color: #FFF;
+	background: #005FAC;
 }
 
 .footer-subscribe {
